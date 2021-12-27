@@ -1,8 +1,6 @@
-### Hi there 👋
+## Olá! Eu sou a Livia Souza
 
-- 🔭 I’m currently working com back-end 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 Trabalhando com back-end 
+- 🌱 Estudando Phyton
 - 📫 Email: livia.lucena023@gmail.com
+- 😊 Pronomes: ela/dela
