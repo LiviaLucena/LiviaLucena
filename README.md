@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Livia Souza
 
-- 🔭 Trabalhando com back-end 
+- 🔭 Trabalhando com C#
 - 🌱 Estudando Flutter e Dart
 - 😊 Pronomes: ela/dela
